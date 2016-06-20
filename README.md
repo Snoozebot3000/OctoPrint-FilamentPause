@@ -4,7 +4,7 @@ OctoPrint-FilamentPause Plugin
 ==============================
 
 This is a plugin for pause [OctoPrint](http://octoprint.org/) based upon input from an external filament switch
-In addition to installing the plugin, you will need to enable i2c on your Raspberry Pi.
+
 
 Requirements
 ------------
