@@ -1,7 +1,7 @@
 # OctoPrint-FilamentPause
 An OctoPrint plugin to use a 3D printed part and a switch to pause the machine when the filament runs out
-OctoGlow Plugin
-===============
+OctoPrint-FilamentPause Plugin
+==============================
 
 This is a plugin for pause [OctoPrint](http://octoprint.org/) based upon input from an external filament switch
 In addition to installing the plugin, you will need to enable i2c on your Raspberry Pi.
@@ -24,5 +24,18 @@ Install the plugin like you would install any regular Python package from source
 pip install https://github.com/dmalec/OctoPrint-FilamentPause/archive/master.zip
 ```
 
-Make sure you use the same Python environment that you installed OctoPrint under, otherwise the plugin won't be able to satisfy its dependencies.
+**TODO:** Describe what your plugin does.
 
+## Setup
+
+Install via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wiki/Plugin:-Plugin-Manager)
+or manually using this URL:
+
+    https://github.com/Snoozebot3000/OctoPrint-Filamentpause/archive/master.zip
+
+**TODO:** Describe how to install your plugin, if more needs to be done than just installing it via pip or through
+the plugin manager.
+
+## Configuration
+
+**TODO:** Describe your plugin's configuration options (if any).
