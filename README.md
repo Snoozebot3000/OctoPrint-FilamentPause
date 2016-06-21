@@ -6,6 +6,10 @@ OctoPrint-FilamentPause Plugin
 This is a plugin for pause [OctoPrint](http://octoprint.org/) based upon input from an external filament switch
 
 
+NOTE!!!! This is a work in progress and is not currently functional
+===================================================================
+
+
 Requirements
 ------------
 * Raspberry Pi or BeagleBoneBlack
