@@ -21,7 +21,7 @@ Installing the Plugin
 Install the plugin like you would install any regular Python package from source:
 
 ``` bash
-pip install https://github.com/dmalec/OctoPrint-FilamentPause/archive/master.zip
+pip install https://github.com/Snoozebot3000/OctoPrint-FilamentPause/archive/master.zip
 ```
 
 **TODO:** Describe what your plugin does.
